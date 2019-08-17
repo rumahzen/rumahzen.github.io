@@ -9,6 +9,7 @@ Nah, untuk memperoleh kelimpahan akal, maka perlu belajar. Dan salah satu belaja
 Rasulullah pun menyampaikan:
 
 > العلم بالتعلم
+
 > Ilmu diperoleh dengan menuntut ilmu.
 
 Juga didukung oleh berbagai pernyataan ulama:
