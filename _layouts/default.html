@@ -2,7 +2,7 @@
 ---
 
 <!DOCTYPE html>
-<html>
+<html class="has-navbar-fixed-top">
 <head>
 	<title>Zen</title>
 	<meta charset="utf-8">
@@ -11,7 +11,7 @@
 </head>
 <body>
 
-	<nav class="navbar" role="navigation" aria-label="main navigation">
+	<nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
 	  <div class="navbar-brand">
 	    <a class="navbar-item" href="/">
 	      <img src="/images/bulma-logo.png" width="112" height="28">
@@ -72,7 +72,7 @@
 	  </div>
 	</nav>
 
-	<div class="container">
+	<div class="{% if page.tanpa-container %}{% else %}container{% endif %}">
 		{{ content }}
 	</div>
 </body>
