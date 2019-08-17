@@ -14,9 +14,6 @@ menu:
       -
         nama: Github
         link: https://github.com/mzaini30
-      -
-        nama: Quora
-        link: https://id.quora.com/profile/Zen-3
   -
     nama: Tools
     isi:
@@ -38,21 +35,6 @@ menu:
       -
         nama: Blade Codeigniter
         link: https://github.com/mzaini30/blade-codeigniter
-  -
-    nama: SC APK
-    isi:
-      -
-        nama: Family
-        link: https://github.com/mzaini30/family
-  -
-    nama: SC Web
-    isi:
-      -
-        nama: Tweet
-        link: https://github.com/mzaini30/tweet
-      -
-        nama: Quest
-        link: https://github.com/mzaini30/quest-public
   -
     nama: Telegram
     isi:
