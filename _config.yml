@@ -15,8 +15,32 @@ menu:
         nama: Github
         link: https://github.com/mzaini30
   -
-    nama: Repositori
+    nama: Tools
     isi:
       -
         nama: Dokumentasi Bulma
         link: https://github.com/mzaini30/dokumentasi-bulma
+      -
+        nama: Catatan
+        link: https://github.com/mzaini30/catatan
+      -
+        nama: Codeigniter Twig
+        link: https://github.com/mzaini30/codeigniter-twig
+      -
+        nama: Octocat Downloader
+        link: https://github.com/mzaini30/octocat-downloader
+      -
+        nama: Pecah Satuan
+        link: https://github.com/mzaini30/pecah-satuan
+  -
+    nama: SC APK
+    isi:
+      -
+        nama: Family
+        link: https://github.com/mzaini30/family
+  -
+    nama: SC Web
+    isi:
+      -
+        nama: Tweet
+        link: https://github.com/mzaini30/tweet
