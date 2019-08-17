@@ -6,7 +6,7 @@ tanpa-container: true
 <div class="container is-fluid jarak">
 	<div class="columns is-multiline">
 		{% for x in site.posts %}
-			<div class="column is-3">
+			<div class="column is-3 is-12-mobile">
 				<div class="card">
 				  <header class="card-header">
 				    <p class="card-header-title">
@@ -23,7 +23,9 @@ tanpa-container: true
 				      {{ x.excerpt | strip_html | strip_newlines | truncate: 156 }}
 				    </div>
 				  </div>
-				  
+				  <footer class="card-footer">
+				    <a href="{{ x.url }}" class="card-footer-item">Lanjutkan Membaca</a>
+				  </footer>
 				</div>
 			</div>
 		{% endfor %}
