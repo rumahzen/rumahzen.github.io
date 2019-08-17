@@ -24,29 +24,22 @@
 	    </div>
 	    <div id="navbarBasicExample" class="navbar-menu">
 	        <div class="navbar-start">
-	            <div class="navbar-item has-dropdown is-hoverable">
-	                <a class="navbar-link">
-	                    Klien
-	                </a>
-	                <div class="navbar-dropdown">
-	                    <a class="navbar-item" href="https://panglimadelivery.com" target="_blank">
-	                        Panglima Delivery
-	                    </a>
-	                </div>
-	            </div>
-	            <div class="navbar-item has-dropdown is-hoverable">
-	                <a class="navbar-link">
-	                    Media Sosial
-	                </a>
-	                <div class="navbar-dropdown">
-	                    <a class="navbar-item" href="https://github.com/mzaini30" target="_blank">
-	                        Github
-	                    </a>
-	                    <a class="navbar-item" href="https://instagram.com/mzaini30" target="_blank">
-	                        Instagram
-	                    </a>
-	                </div>
-	            </div>
+				{% assign menu = site.menu | sort: 'nama' %}
+				{% for x in menu %}
+		            <div class="navbar-item has-dropdown is-hoverable">
+		                <a class="navbar-link">
+		                    {{ x.nama }}
+		                </a>
+		                <div class="navbar-dropdown">
+		                	{% assign isi = x.isi | sort: 'nama' %}
+		                	{% for y in isi %}
+			                	<a class="navbar-item" href="{{ y.link }}" target="_blank">
+			                        {{ y.nama }}
+			                    </a>
+			                {% endfor %}
+		                </div>
+		            </div>
+				{% endfor %}
 	        </div>
 	    </div>
 	</nav>

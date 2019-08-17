@@ -1,0 +1,22 @@
+menu:
+  -
+    nama: Klien
+    isi:
+      -
+        nama: Panglima Delivery
+        link: https://panglimadelivery.com
+  -
+    nama: Media Sosial
+    isi:
+      -
+        nama: Instagram
+        link: https://instagram.com/mzaini30
+      -
+        nama: Github
+        link: https://github.com/mzaini30
+  -
+    nama: Repositori
+    isi:
+      -
+        nama: Dokumentasi Bulma
+        link: https://github.com/mzaini30/dokumentasi-bulma
