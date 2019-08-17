@@ -1,3 +1,5 @@
+permalink: /:slug-:month:day
+
 menu:
   -
     nama: Klien
