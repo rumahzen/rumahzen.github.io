@@ -1,0 +1,1 @@
+Lah, memang ada kah kaitannya?
