@@ -32,6 +32,9 @@ menu:
       -
         nama: Pecah Satuan
         link: https://github.com/mzaini30/pecah-satuan
+      -
+        nama: Blade Codeigniter
+        link: https://github.com/mzaini30/blade-codeigniter
   -
     nama: SC APK
     isi:
@@ -44,3 +47,6 @@ menu:
       -
         nama: Tweet
         link: https://github.com/mzaini30/tweet
+      -
+        nama: Quest
+        link: https://github.com/mzaini30/quest-public
