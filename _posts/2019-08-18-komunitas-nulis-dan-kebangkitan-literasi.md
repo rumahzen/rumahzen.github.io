@@ -44,7 +44,7 @@ Di samping itu, ODOP juga memiliki komunitas anakan yang menginduk ke ODOP yaitu
 
 ODOP Tembus Media adalah salah satu upaya yang dibuat oleh para pengurus ODOP supaya anggota bisa nulis di berbagai media; cetak maupun daring.
 
-Soalnya, menurut pengurus, ngirim ke media itu gampang; tinggal nulis dan dikirim. Gitu aja. Namun, mental sebagai penulis media itu yang kurang dan perlu disemagati. Maka, komunitas OTM ini adalah sebagai penyemangat tiap anggotanya supaya semangat nulis dan kirim ke media.
+Soalnya, menurut pengurus, ngirim ke media itu gampang; tinggal nulis dan dikirim. Gitu aja. Namun, mental sebagai penulis media itu yang kurang dan perlu disemangati. Maka, komunitas OTM ini adalah sebagai penyemangat tiap anggotanya supaya semangat nulis dan kirim ke media.
 
 Mengapa mesti ke media? Nggak di blog pribadi aja?
 
