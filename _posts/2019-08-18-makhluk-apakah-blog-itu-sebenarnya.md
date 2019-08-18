@@ -13,3 +13,5 @@ Ya, memang sih blog bisa untuk pasang gambar, foto, video, musik. Apa aja bisa k
 # Berawal dari Tulisan, Berkembang Menjadi Pendidikan
 
 Tulisan bermakna pendidikan, yang kemudian akan mengejawantah dalam peradaban. Dengan tulis-menulis dan budaya membaca, pengetahuan akan tersebar dan kepahaman semakin berkembang luas. Maka, ciri khas dari tulisan-tulisan blog adalah mendeskripsikan segala sesuatunya secara detail dan panjang lebar karena memang di situlah kekuatannya. Apalagi memang Google suka dengan tulisan yang panjang dan berbobot.
+
+Maka biasanya memang para penulis blog ini dalam menjelaskan postingannya itu panjang lebar; semuamya dijelaskan sejelas-jelasnya. Kalau bisa memang jangan sampai ada istilah yang masih menimbulkan tanda tanya bagi pembaca. Maka biasanya kita temukan memang tulisan-tulisan yang muncul di halaman pertama Google adalah tulisan yang panjang-panjang.
