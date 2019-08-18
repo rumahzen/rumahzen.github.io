@@ -1,3 +1,10 @@
+# Mempersiapkan Akun Github
+
+```bash
+git config --global user.name username
+git config --global user.email email
+```
+
 # Clone Repository
 
 ```bash
