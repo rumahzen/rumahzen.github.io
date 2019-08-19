@@ -16,9 +16,15 @@ Tentu saja yang pertama adalah karena diajarkan langsung oleh Rasulullah makanya
 
 	> Semoga Allah senantiasa memberikan berkahnya pada setiap kenangan indah yang kamu alami
 
-	Maka, di bagian pertama buku ini diceritakan berbagai hal indah yang menanti setelah pernikahan maupun pra-pernikahan seperti tentang taaruf.
+	Maka, di bagian pertama buku ini diceritakan berbagai hal indah yang menanti setelah pernikahan.
 
 	Bagian ini terdiri dari:
 
 	- Cintamu, sehangat ciuman bidadari
-	- 
+	- Prolog: Menghadirkan barakah sejak pandangan pertama
+	- Titik nol mendesain walimah yang barakah
+	- Taman pertama: Dari pelaminan ke peraduan, mendebarkan
+	- Taman kedua: Saat mereka adalah pakaian bagimu
+	- Rumpun pertama: Ketika mentari pertama di kehidupan baru, terbenam
+	- Rumpun kedua: Simfoni ladang-ladang peradaban
+	- Taman ketiga: 
