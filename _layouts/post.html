@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="infinity-isi">
+<div class="jarak">
 	<div class="card">
 	  <header class="card-header">
 	    <p class="card-header-title">
@@ -25,6 +25,52 @@ layout: default
 	</div>
 </div>
 
-{% if page.previous.url %}
-	<a href="{{ page.previous.url }}" class="selanjutnya sembunyi">Selanjutnya</a>
+{% if page.previous %}
+	<div class="jarak">
+		<div class="card">
+		  <header class="card-header">
+		    <p class="card-header-title">
+		      {{ page.previous.title }}
+		    </p>
+		    <a href="#" class="card-header-icon" aria-label="more options">
+		      <span class="icon">
+		        <i class="fas fa-angle-down" aria-hidden="true"></i>
+		      </span>
+		    </a>
+		  </header>
+		  <div class="card-content">
+		    <div class="content">
+		      {{ page.previous.content | strip_html | strip_newlines | truncate: 156 }}
+		    </div>
+		  </div>
+			<footer class="card-footer">
+			    <a href="{{ page.previous.url }}" class="card-footer-item">Lanjutkan Membaca</a>
+			</footer>
+		</div>
+	</div>
+{% endif %}
+
+{% if page.next %}
+	<div class="jarak">
+		<div class="card">
+		  <header class="card-header">
+		    <p class="card-header-title">
+		      {{ page.next.title }}
+		    </p>
+		    <a href="#" class="card-header-icon" aria-label="more options">
+		      <span class="icon">
+		        <i class="fas fa-angle-down" aria-hidden="true"></i>
+		      </span>
+		    </a>
+		  </header>
+		  <div class="card-content">
+		    <div class="content">
+		      {{ page.next.excerpt | strip_html | strip_newlines | truncate: 156 }}
+		    </div>
+		  </div>
+			<footer class="card-footer">
+			    <a href="{{ page.next.url }}" class="card-footer-item">Lanjutkan Membaca</a>
+			</footer>
+		</div>
+	</div>
 {% endif %}

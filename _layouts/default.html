@@ -7,14 +7,15 @@
 	<title>{% if page.title %}{{ page.title }} - {% endif %}Zen</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-	<link rel="alternate" type="application/rss+xml" href="https://rumahzen.github.io/feed.xml" />
+	<link rel="alternate" type="application/rss+xml" href="https://rumahzen.github.io/feed" />
 	<link rel="stylesheet" type="text/css" href="/vendor/bulma/bulma.min.css">
 	<style type="text/css">
 		* {
 			word-wrap: break-word;
 		}
 
-		.infinity-isi {
+		.infinity-isi,
+		.jarak {
 		    padding-top: 1px;
 		    padding-bottom: 30px;
 		}
@@ -71,13 +72,23 @@
 	</div>
 	<script type="text/javascript" src="/vendor/jquery/jquery.min.js"></script>
 	<script type="text/javascript" src="/vendor/bulma/bulma.js"></script>
-	<script type="text/javascript" src="/vendor/infinite-scroll/infinite-scroll.pkgd.min.js"></script>
-	<script type="text/javascript">
-		$('.infinity-bungkus').infiniteScroll({
-			path: '.selanjutnya',
-			append: '.infinity-isi',
-			debug: true
-		})
-	</script>
+	{% if page.beranda %}
+		<script type="text/javascript">
+			$('.navbar-item').click(function(x){
+				x.preventDefault()
+				$('html, body').animate({
+					scrollTop: 0
+				}, 600)
+			})	
+		</script>
+
+		<script type="text/javascript" src="/vendor/infinite-scroll/infinite-scroll.pkgd.min.js"></script>
+		<script type="text/javascript">
+			$('.infinity-bungkus').infiniteScroll({
+				path: '.selanjutnya',
+				append: '.infinity-isi'
+			})
+		</script>
+	{% endif %}
 </body>
 </html>
