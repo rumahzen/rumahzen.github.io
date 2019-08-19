@@ -1,5 +1,8 @@
 permalink: /:slug-:month:day
 
+plugins: 
+  - jekyll-feed
+
 menu:
   -
     nama: Klien
