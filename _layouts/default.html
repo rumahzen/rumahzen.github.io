@@ -35,7 +35,7 @@
 	<div class="isi">
 		<nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
 		    <div class="navbar-brand">
-		        <a class="navbar-item" href="/">
+		        <a class="navbar-item judul-blog" href="/">
 		            ZEN
 		        </a>
 		        <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
@@ -74,7 +74,7 @@
 	<script type="text/javascript" src="/vendor/bulma/bulma.js"></script>
 	{% if page.beranda %}
 		<script type="text/javascript">
-			$('.navbar-item').click(function(x){
+			$('.judul-blog').click(function(x){
 				x.preventDefault()
 				$('html, body').animate({
 					scrollTop: 0
