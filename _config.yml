@@ -1,6 +1,6 @@
 permalink: /:slug-:month:day
 
-paginate: 3
+paginate: 10
 paginate_path: "/halaman-:num"
 
 plugins: 
