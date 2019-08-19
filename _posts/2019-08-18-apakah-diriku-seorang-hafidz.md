@@ -1,7 +1,3 @@
----
-title: Apakah Diriku Seorang Hafidz?
----
-
 Terkadang, ada orang yang bertanya di grup tentang hafalan Quran. Atau, berkata tentang itu. Aku menanggapi. Lalu, kembali ditanyakan:
 
 > Mas Zen penghafal Quran?
