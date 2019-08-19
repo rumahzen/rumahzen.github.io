@@ -1,7 +1,7 @@
-permalink: /:slug-:month:day
+permalink: /:slug-:month:day/
 
 paginate: 10
-paginate_path: "/halaman-:num"
+paginate_path: "/halaman-:num/"
 
 plugins: 
   - jekyll-feed
