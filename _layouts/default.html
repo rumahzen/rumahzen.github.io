@@ -25,50 +25,61 @@
 		    margin: auto;
 		}
 
+		.sembunyi {
+			display: none;
+		}
 	</style>
 </head>
 <body>
+	<div class="isi">
+		<nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
+		    <div class="navbar-brand">
+		        <a class="navbar-item" href="/">
+		            ZEN
+		        </a>
+		        <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+		            <span aria-hidden="true"></span>
+		            <span aria-hidden="true"></span>
+		            <span aria-hidden="true"></span>
+		        </a>
+		    </div>
+		    <div id="navbarBasicExample" class="navbar-menu">
+		        <div class="navbar-start">
+					{% assign menu = site.menu | sort: 'nama' %}
+					{% for x in menu %}
+			            <div class="navbar-item has-dropdown is-hoverable">
+			                <a class="navbar-link">
+			                    {{ x.nama }}
+			                </a>
+			                <div class="navbar-dropdown">
+			                	{% assign isi = x.isi | sort: 'nama' %}
+			                	{% for y in isi %}
+				                	<a class="navbar-item" href="{{ y.link }}" target="_blank">
+				                        {{ y.nama }}
+				                    </a>
+				                {% endfor %}
+			                </div>
+			            </div>
+					{% endfor %}
+		        </div>
+		    </div>
+		</nav>
 
-	<nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
-	    <div class="navbar-brand">
-	        <a class="navbar-item" href="/">
-	            ZEN
-	        </a>
-	        <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
-	            <span aria-hidden="true"></span>
-	            <span aria-hidden="true"></span>
-	            <span aria-hidden="true"></span>
-	        </a>
-	    </div>
-	    <div id="navbarBasicExample" class="navbar-menu">
-	        <div class="navbar-start">
-				{% assign menu = site.menu | sort: 'nama' %}
-				{% for x in menu %}
-		            <div class="navbar-item has-dropdown is-hoverable">
-		                <a class="navbar-link">
-		                    {{ x.nama }}
-		                </a>
-		                <div class="navbar-dropdown">
-		                	{% assign isi = x.isi | sort: 'nama' %}
-		                	{% for y in isi %}
-			                	<a class="navbar-item" href="{{ y.link }}" target="_blank">
-			                        {{ y.nama }}
-			                    </a>
-			                {% endfor %}
-		                </div>
-		            </div>
-				{% endfor %}
-	        </div>
-	    </div>
-	</nav>
-
-	<div class="container-meta jarak">
-		{{ content }}
+		<div class="container-meta jarak">
+			{{ content }}
+		</div>
 	</div>
 	<script type="text/javascript" src="/vendor/jquery/jquery.min.js"></script>
 	<script type="text/javascript" src="/vendor/bulma/bulma.js"></script>
 	{% if page.beranda %}
 		<script type="text/javascript" src="/vendor/infinite-scroll/infinite-scroll.pkgd.min.js"></script>
+		<script type="text/javascript">
+			$('body').infiniteScroll({
+				path: '.selanjutnya',
+				append: '.isi',
+				history: true
+			})
+		</script>
 	{% endif %}
 </body>
 </html>
