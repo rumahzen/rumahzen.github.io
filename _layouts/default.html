@@ -71,14 +71,12 @@
 	</div>
 	<script type="text/javascript" src="/vendor/jquery/jquery.min.js"></script>
 	<script type="text/javascript" src="/vendor/bulma/bulma.js"></script>
-	{% if page.beranda %}
-		<script type="text/javascript" src="/vendor/infinite-scroll/infinite-scroll.pkgd.min.js"></script>
-		<script type="text/javascript">
-			$('body').infiniteScroll({
-				path: '.selanjutnya',
-				append: '.isi'
-			})
-		</script>
-	{% endif %}
+	<script type="text/javascript" src="/vendor/infinite-scroll/infinite-scroll.pkgd.min.js"></script>
+	<script type="text/javascript">
+		$('body').infiniteScroll({
+			path: '.selanjutnya',
+			append: '.isi'
+		})
+	</script>
 </body>
 </html>

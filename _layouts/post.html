@@ -19,10 +19,12 @@ layout: default
 	      {{ content }}
 	    </div>
 	  </div>
-
- <footer class="card-footer">
-				    <a href="https://wa.me/6281545143654?text=*{{ page.title | replace: ' ', '%20' }}*%0A_https://rumahzen.github.io{{ page.url }}_%0A%0A" class="card-footer-item">Masukkan Komentar</a>
-				  </footer>
-
+		<footer class="card-footer">
+		    <a href="https://wa.me/6281545143654?text=*{{ page.title | replace: ' ', '%20' }}*%0A_https://rumahzen.github.io{{ page.url }}_%0A%0A" class="card-footer-item">Masukkan Komentar</a>
+		</footer>
 	</div>
 </div>
+
+{% if page.previous.url %}
+	<a href="{{ page.previous.url }}" class="selanjutnya sembunyi">Selanjutnya</a>
+{% endif %}
