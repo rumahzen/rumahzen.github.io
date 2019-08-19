@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 Dalam kehidupan setiap manusia, tentu ada suatu sintesa yang menjadi aji-ajiannya dalam melaksanakan kehidupan sehari-hari. Sintesa ini dibuat dan dikomitmenkan sebagai arah kehidupannya supaya makin teratur. Nah, kalau menurutku saat ini, ada 3 hal penting yang harus kita perhatikan setiap saat:
 
 1. Kerja

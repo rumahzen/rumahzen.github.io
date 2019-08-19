@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 Apa makna pernikahan bagimu?
 
 Apakah pernikahan itu berarti akhir perhentian dari sebuah perjalanan panjang yang tak berujung? Apakah pernikahan adalah akhir dari segalanya? Apakah pernikahan adalah tempat menumpahkan segala hasrat kita?

@@ -1,7 +1,11 @@
 permalink: /:slug-:month:day
 
+paginate: 3
+paginate_path: "/halaman-:num"
+
 plugins: 
   - jekyll-feed
+  - jekyll-paginate
 
 menu:
   -

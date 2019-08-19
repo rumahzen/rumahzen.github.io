@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 # Mempersiapkan Akun Github
 
 ```bash

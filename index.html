@@ -1,10 +1,11 @@
 ---
 layout: default
+beranda: true
 ---
 
 <div class="">
 	<div class="columns is-multiline">
-		{% for x in site.posts %}
+		{% for x in paginator.posts %}
 			<div class="column is-12">
 				<div class="card">
 				  <header class="card-header">

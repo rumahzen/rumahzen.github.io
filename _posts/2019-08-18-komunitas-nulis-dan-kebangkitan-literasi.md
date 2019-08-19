@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 Ada salah satu pepatah India yang mengatakan:
 
 > Segala sesuatu kalau jumlahnya banyak, nilainya berkurang. Kecuali akal. Dia makin banyak, nilainya makin tinggi.
