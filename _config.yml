@@ -3,9 +3,6 @@ permalink: /:slug-:month:day
 paginate: 10
 paginate_path: "/halaman-:num"
 
-author:
-  twitter: mzaini30
-
 plugins: 
   - jekyll-feed
   - jekyll-paginate
