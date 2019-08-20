@@ -18,6 +18,6 @@ Lalu setelah memerhatikan konten, kita memerhatikan pula tampilan dan pengalaman
 
 Bahkan, ketika sudah memerhatikan secara UI dan UX, kita memerhatikan pula secara DX (Developer Experience). Nah DX ini meliputi persoalan yang lama diperdebatkan yaitu apakah memilih Blogspot atau Wordpress. Kalau aku sih milih Jekyll. Heeehe.
 
-Meman sih DX ini nggak berpengaruh secara langsung pada pengunjung. Namun, pemilihan DX yang tepat, bisa membuat performa produktivitas blogging kita menjadi baik dan akhirnya dapat menyajikan konten yang memuaskan.
+Memang sih DX ini nggak berpengaruh secara langsung pada pengunjung. Namun, pemilihan DX yang tepat, bisa membuat performa produktivitas blogging kita menjadi baik dan akhirnya dapat menyajikan konten yang memuaskan.
 
 Kayaknya itu aja deh yang mau kusampaikan.
