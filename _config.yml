@@ -66,3 +66,21 @@ menu:
       -
         nama: Jung Jawa
         link: https://www.jungjawa.com/?m=1
+  -
+    nama: Web Apps
+    isi:
+      -
+        nama: Enter
+        link: https://mzaini30.github.io/enter
+      -
+        nama: Kontur
+        link: https://mzaini30.github.io/kontur
+      -
+        nama: Kontur Reserve
+        link: https://mzaini30.github.io/kontur-reserve
+      -
+        nama: Kontest
+        link: https://mzaini30.github.io/kontest
+      -
+        nama: Markdown
+        link: https://mzaini30.github.io/markdown
