@@ -7,3 +7,11 @@ Mengapa kita tidak perlu menggunakan bahasa pemrograman yang rumit untuk membuat
 Karena kan yang terpenting dari pemrograman adalah sebuah aplikasi **jadi**. Makanya, nggak terlalu penting kamu pakai bahasa pemrograman apa untuk membuatnya. Kalau misalnya pakai Excel aja sudah jadi aplikasi yang kita perlukan, kan nggak perlu lagi lok pakai Java untuk membuat aplikasi serupa.
 
 Sudah banyak aplikasi yang kubuat menggunakan HTML. Contohnya aja APK Sanggar Baca Caraka yang digunakan oleh grup Whatsapp dengan nama serupa. Tapi itu kan berbentuk APK. Perlu mempelajari bahasa Java dong?
+
+Ya nggak perlu terlalu mendalami sih. Yang penting kita tau pemrograman dasar seperti operasi matematika, if else, perulangan, dan lain sebagainya. Soalnya untuk membuat APK yang sangat sederhana, kita cukup bermain dengan HTML aja.
+
+What?
+
+Iya beneran. HTML aja. Nah, untuk mengcompilenya menjadi APK, ada banyak sudah tutorialnya di internet. Seperti contohnya yang di <https://dedykuncoro.com/2017/09/tutorial-membuat-aplikasi-android-webview.html>. Atau kita bisa juga menggunakan APK Builder (ada di Play Store, install aja) untuk membuat aplikasi Android berbasis HTML. Mudah kan?
+
+Atau, kita bisa juga membuat aplikasi desktop berbasis HTML seperti yang saya buat di <https://raw.githubusercontent.com/mzaini30/pecah-satuan/master/pisah%20angka.hta>. Nah, 
