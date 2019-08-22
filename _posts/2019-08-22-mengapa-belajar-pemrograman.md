@@ -16,4 +16,4 @@ Iya beneran. HTML aja. Nah, untuk mengcompilenya menjadi APK, ada banyak sudah t
 
 Atau, kita bisa juga membuat aplikasi desktop berbasis HTML seperti yang aku buat di <https://raw.githubusercontent.com/mzaini30/pecah-satuan/master/pisah%20angka.hta>. Cara menjalankannya, disave aja.
 
-Nah, di 
+Nah, di aplikasi berekstensi HTA tersebut, aku menggunakan bahasa HTML dan mengubah nama filenya dengan ekstensi HTA supaya bisa dijalankan tanpa browser sehingga bisa dijalankan dengan lebih cepat.
