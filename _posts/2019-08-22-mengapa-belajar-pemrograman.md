@@ -14,6 +14,6 @@ What?
 
 Iya beneran. HTML aja. Nah, untuk mengcompilenya menjadi APK, ada banyak sudah tutorialnya di internet. Seperti contohnya yang di <https://dedykuncoro.com/2017/09/tutorial-membuat-aplikasi-android-webview.html>. Atau kita bisa juga menggunakan APK Builder (ada di Play Store, install aja) untuk membuat aplikasi Android berbasis HTML. Mudah kan?
 
-Atau, kita bisa juga membuat aplikasi desktop berbasis HTML seperti yang saya buat di <https://raw.githubusercontent.com/mzaini30/pecah-satuan/master/pisah%20angka.hta>. Cara menjalankannya, disave aja.
+Atau, kita bisa juga membuat aplikasi desktop berbasis HTML seperti yang aku buat di <https://raw.githubusercontent.com/mzaini30/pecah-satuan/master/pisah%20angka.hta>. Cara menjalankannya, disave aja.
 
 Nah, di 
