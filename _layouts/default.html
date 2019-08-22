@@ -85,12 +85,14 @@
 	<script type="text/javascript" src="/vendor/bulma/bulma.js"></script>
 	{% if page.beranda %}
 		<script type="text/javascript">
-			$('.judul-blog').click(function(x){
-				x.preventDefault()
-				$('html, body').animate({
-					scrollTop: 0
-				}, 600)
-			})	
+			if (location.pathname == '/') {
+				$('.judul-blog').click(function(x){
+					x.preventDefault()
+					$('html, body').animate({
+						scrollTop: 0
+					}, 600)
+				})	
+			}
 		</script>
 
 		<script type="text/javascript" src="/vendor/infinite-scroll/infinite-scroll.pkgd.min.js"></script>
