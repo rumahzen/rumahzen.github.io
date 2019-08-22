@@ -1,5 +1,6 @@
 ---
 title: 'Feel Itu Bernama: Bingung Mau Melakukan Apa'
+layout: post
 ---
 
 Ada momen-momen di mana kamu bingung mau ngapain.
