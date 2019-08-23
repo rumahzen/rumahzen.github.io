@@ -84,6 +84,9 @@
 	</div>
 	<script type="text/javascript" src="/vendor/jquery/jquery.min.js"></script>
 	<script type="text/javascript" src="/vendor/bulma/bulma.js"></script>
+	<script type="text/javascript">
+		$('table').wrap('<div class="table-container"></div>')
+	</script>
 	{% if page.beranda %}
 		<script type="text/javascript">
 			if (location.pathname == '/') {
