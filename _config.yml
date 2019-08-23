@@ -46,11 +46,11 @@ menu:
         nama: Blade Codeigniter
         link: https://github.com/mzaini30/blade-codeigniter
   -
-    nama: Telegram
+    nama: Form
     isi:
       -
-        nama: Aplikasi Android
-        link: https://t.me/aplikasiandroid2019
+        nama: Sanggar Baca Caraka
+        link: https://docs.google.com/forms/d/e/1FAIpQLSei_vNChRWGk_WYKrN_AyVmp0e5pXAZFFSisFqvOCDye6-Avw/viewform
   -
     nama: Blogroll
     isi:
