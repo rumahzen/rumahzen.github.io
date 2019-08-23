@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 ```java
 package com.example.sanggarbacacaraka;
 
