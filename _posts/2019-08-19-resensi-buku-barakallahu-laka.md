@@ -1,3 +1,8 @@
+---
+title: Riviu Buku Barakallahu Laka
+category: riviu buku
+---
+
 Sebuah karya yang sangat bagus berjudul Barakallahu Laka, Bahagianya Merayakan Cinta yang ditulis oleh ustadz kita, Ustadz Salim A. Fillah. Buku ini cocok menjadi bekal bagi seorang calon pengantin yang akan mengarungi misteri rumah tangga (aku contohnya. Hehehe. Soalnya memang mengkhatamkan buku ini tugas dari ustadz yang membimbingku bertemu Sang Bidadari. Hehehe).
 
 Nah, buku ini menjelaskan tentang sebuah doa pernikahan yang biasanya kita lalai mencermati kandungannya:
