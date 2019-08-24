@@ -20,7 +20,8 @@ layout: default
 	      {% if page.category %}
 	      	<h1 class="is-capitalized">Serial <em>{{ page.category }}</em></h1>
 			<ul>
-			  {% for x in site.posts %}
+			  {% assign postingan = site.posts | sort: 'title' %}
+			  {% for x in postingan %}
 			  	{% if x.category == page.category %}
 			  		<li><a href="{{ x.url }}">{{ x.title }}</a></li>
 			  	{% endif %}
