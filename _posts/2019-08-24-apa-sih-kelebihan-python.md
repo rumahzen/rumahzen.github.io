@@ -55,4 +55,22 @@ Udah itu dulu.
 
 # Contoh Sintaks
 
-## 
+## Import Fungsi
+
+```python
+import date
+```
+
+## If
+
+```python
+if nama == 'Namamu':
+	print('Password wifi sesuai')
+```
+
+## For
+
+```python
+for x in xrange(1,10):
+	print(x)
+```
