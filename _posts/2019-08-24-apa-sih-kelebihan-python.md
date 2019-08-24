@@ -37,3 +37,7 @@ Ini aku kutip dari Wikipedia ya.
 	def tulis(x):
 		print(x)
 	```
+
+# Python Ini Bisa Dipakai Buat Aplikasi Apa Aja Sih?
+
+Ya apa aja bisa selama ada modul yang siap pakai. Hehehehe. Kata orang sih 
