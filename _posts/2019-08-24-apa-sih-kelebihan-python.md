@@ -74,3 +74,5 @@ if nama == 'Namamu':
 for x in xrange(1,10):
 	print(x)
 ```
+
+Oke. Itu dulu. Ntar kalau niat, kuedit lagi ni postingan. Komen di bawah ya.
