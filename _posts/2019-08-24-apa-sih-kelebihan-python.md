@@ -1,5 +1,4 @@
 ---
-category: python
 layout: post
 ---
 
