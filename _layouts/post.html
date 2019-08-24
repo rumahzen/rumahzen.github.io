@@ -17,6 +17,16 @@ layout: default
 	  <div class="card-content">
 	    <div class="content">
 	      {{ content }}
+	      {% if page.category %}
+	      	<h1 class="is-capitalized">Serial <em>{{ page.category }}</em></h1>
+			<ul>
+			  {% for x in site.posts %}
+			  	{% if x.category == page.category %}
+			  		<li><a href="{{ x.url }}">{{ x.title }}</a></li>
+			  	{% endif %}
+			  {% endfor %}
+			</ul>
+	      {% endif %}
 	    </div>
 	  </div>
 		<footer class="card-footer">
