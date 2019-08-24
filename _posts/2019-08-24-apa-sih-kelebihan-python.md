@@ -40,4 +40,19 @@ Ini aku kutip dari Wikipedia ya.
 
 # Python Ini Bisa Dipakai Buat Aplikasi Apa Aja Sih?
 
-Ya apa aja bisa selama ada modul yang siap pakai. Hehehehe. Kata orang sih 
+Ya apa aja bisa selama ada modul yang siap pakai. Hehehehe. Kata orang sih bagusnya buat analisa big data. Ya, oke aja lah. Selama ada modulnya mah oke aja.
+
+Jadi kita tuh nggak harus terlalu loyal pada bahasa tertentu. Jadi kalau memang lebih cepat pakai Python ya pakai Python. Kalau lebih cepat pakai PHP ya pakai PHP. Gitu.
+
+Tapi memang ada kelebihan kalau memakai Python:
+
+- Bisa menggunakan berbasis obyek
+- Nggak perlu ribet sama `{`
+
+	Tapi ya kalau salah kasih tabulasi mah nggak jalan kodenya. Hehehe
+
+Udah itu dulu.
+
+# Contoh Sintaks
+
+## 
