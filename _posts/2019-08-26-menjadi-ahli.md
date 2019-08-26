@@ -5,3 +5,5 @@ Kalau dalam strukturalisme, sesungguhnya manusia ini adalah sekumpulan elemen ya
 Lantas, buat apa menjadi ahli? Tentu saja untuk menciptakan suatu sistem yang terbaik.
 
 # Bagaimana Cara Menjadi Ahli?
+
+> Practice and repetition make perfect.
