@@ -11,3 +11,5 @@ Apa saja yang akan kita lakukan untuk membuatnya lebih sederhana? Ikuti artikel 
     2. Shalat
 
 # Waktu Luang Sebaiknya Diisi Apa?
+
+- Membaca buku
