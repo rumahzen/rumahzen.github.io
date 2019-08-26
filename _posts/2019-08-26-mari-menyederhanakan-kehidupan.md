@@ -7,7 +7,7 @@ Apa saja yang akan kita lakukan untuk membuatnya lebih sederhana? Ikuti artikel 
 1. Bekal dunia
 2. Bekal akhirat
 
-  1. Membaca Quran
-  2. Shalat
+    1. Membaca Quran
+    2. Shalat
 
 # Waktu Luang Sebaiknya Diisi Apa?
