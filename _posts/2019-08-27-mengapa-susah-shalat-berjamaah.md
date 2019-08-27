@@ -2,9 +2,9 @@ Apa sih yang membuat susah shalat berjamaah di masjid? Bukankah sarana sudah ada
 
 Pakaian? Memang sih pakaian harus yang terbaik. Sebagaimana firman-Nya:
 
-> يا أيها الذين آمنوا خذوا زينتكم عند كل مسجد
+> يا بني آدم خذوا زينتكم عند كل مسجد
 >
-> Wahai orang-orang yang beriman, gunakanlah pakaian terbaik kalian setiap masuk ke masjid.
+> Wahai Bani Adam, gunakanlah pakaian terbaik kalian setiap masuk ke masjid.
 
 Tapi kan, shalat itu yang penting auratnya sudah tertutup. Apalagi kan aurat laki-laki itu sudah tertutup dengan pakaian kita sehari-hari. Yaitu pakaian yang menutupi udel sampai lutut. Tapi kalau misalnya kita pakai celana pendek, kan di masjid ada sarung.
 
