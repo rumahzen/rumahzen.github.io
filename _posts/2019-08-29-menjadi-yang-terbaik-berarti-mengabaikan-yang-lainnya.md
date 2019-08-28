@@ -1,3 +1,7 @@
+---
+date: 2019-08-29 00:00:00 +0800
+---
+
 Mau jadi apa kamu di masa depan?
 
 Pilot? Dokter? Kiyai? Perawat? Psikolog? Pelayan masyarakat? Tokoh politik? Pebisnis? Atau parahnya, kamu nggak memiliki pandangan akan jadi apa kamu di masa depanmu?
