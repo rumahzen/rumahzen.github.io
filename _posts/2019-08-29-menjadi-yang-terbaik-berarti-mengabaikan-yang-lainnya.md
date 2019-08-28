@@ -30,10 +30,10 @@ Betapa nikmatnya saat cobaan-cobaan itu menerpa.
 >
 > Apakah manusia mengira bahwa mereka akan dibiarkan hanya dengan mengatakan, “Kami telah beriman,” dan mereka tidak diuji?
 >
-> QS. Al-Ankabut:2
+> ~ QS. Al-Ankabut:2
 
 > الذي خلق الموت والحيات ليبلوكم أيكم أحسن عملا. وهو العزيز الغفور
 >
 > Yang menciptakan mati dan hidup, untuk menguji kamu, siapa di antara kamu yang lebih baik amalnya. Dan Dia Mahaperkasa, Maha Pengampun.
 >
-> QS. Al-Mulk:2
+> ~ QS. Al-Mulk:2
