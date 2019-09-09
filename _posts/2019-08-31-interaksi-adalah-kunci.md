@@ -1,7 +1,3 @@
----
-layout: post
----
-
 Apa sikap kita di hadapan orang banyak?
 
 Apakah mengasingkan diri? Atau sesekali membuka diri dan bergaul dengan mereka?
