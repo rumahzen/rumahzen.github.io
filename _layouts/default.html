@@ -93,8 +93,18 @@ margin: auto;
 	</div>
 	<script type="text/javascript" src="/vendor/jquery/jquery.min.js"></script>
 	<script type="text/javascript" src="/vendor/bulma/bulma.js"></script>
+	<script type="text/javascript" src="/vendor/mousetrap/mousetrap.min.js"></script>
 	<script type="text/javascript">
 		$('table').wrap('<div class="table-container"></div>')
+
+		Mousetrap.bind('z e n', function(){
+			menu = prompt('1. Tulisan baru\n2. Edit\n ')
+			if (menu == '1') {
+				open('https://github.com/rumahzen/rumahzen.github.io/new/master/_posts', '_blank')
+			} else if (menu == '2'){
+				open('{{ page.path }}', '_blank')
+			}
+		})
 	</script>
 	{% if page.beranda %}
 		<script type="text/javascript">
