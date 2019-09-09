@@ -98,11 +98,13 @@ margin: auto;
 		$('table').wrap('<div class="table-container"></div>')
 
 		Mousetrap.bind('z e n', function(){
-			menu = prompt('1. Tulisan baru\n2. Edit\n ')
+			menu = prompt('1. Tulisan baru\n2. Edit\n3. Hapus\n ')
 			if (menu == '1') {
 				open('https://github.com/rumahzen/rumahzen.github.io/new/master/_posts', '_blank')
 			} else if (menu == '2'){
 				open('https://github.com/rumahzen/rumahzen.github.io/edit/master/{{ page.path }}', '_blank')
+			} else if (menu == '3'){
+				open('https://github.com/rumahzen/rumahzen.github.io/delete/master/{{ page.path }}', '_blank')
 			}
 		})
 	</script>
