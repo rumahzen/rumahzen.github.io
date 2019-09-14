@@ -1,5 +1,6 @@
 ---
 layout: post
+category: pemrograman
 ---
 
 # Mempersiapkan Akun Github

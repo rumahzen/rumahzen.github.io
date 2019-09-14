@@ -1,3 +1,8 @@
+---
+layout: post
+category: nikah
+---
+
 # Doa Saat Memandang Wajahnya
 
 بارك الله لكل واحد منا في صاحبه

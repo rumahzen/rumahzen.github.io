@@ -1,5 +1,6 @@
 ---
 layout: post
+category: quran
 ---
 
 Terkadang, ada orang yang bertanya di grup tentang hafalan Quran. Atau, berkata tentang itu. Aku menanggapi. Lalu, kembali ditanyakan:

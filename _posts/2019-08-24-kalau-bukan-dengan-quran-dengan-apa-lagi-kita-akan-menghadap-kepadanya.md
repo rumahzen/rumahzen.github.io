@@ -1,5 +1,7 @@
 ---
+layout: post
 title: Kalau Bukan dengan Quran, dengan Apa Lagi Kita Akan Menghadap Kepada-Nya?
+category: psikologi
 ---
 
 Umur kita hanya sementara.

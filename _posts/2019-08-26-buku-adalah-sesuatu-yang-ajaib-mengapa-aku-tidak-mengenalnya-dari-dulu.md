@@ -1,5 +1,7 @@
 ---
+layout: post
 title: Buku adalah Sesuatu yang Ajaib. Mengapa Aku Tidak Mengenalnya dari Dulu?
+category: literasi
 ---
 
 Sebenarnya di alam semesta ini ada hal-hal yang sangat ajaib yang sangat sulit diungkapkan oleh kata-kata sederhana. Selain alam yang begitu rumit proses penciptaannya, tingkat ketelitiannya, hingga interaksinya yang sangat dinamis antara satu makhluk hingga makhluk yang lain, kita pun takjub hingga mengucapkan:

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Disintegrasi: Haram dan Berbahaya (Buletin Kaffah 6/9/2019)"
 ---
 

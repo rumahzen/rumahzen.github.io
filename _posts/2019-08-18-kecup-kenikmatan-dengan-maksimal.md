@@ -1,5 +1,6 @@
 ---
 layout: post
+category: psikologi
 ---
 
 Segala hal yang harus kamu lakukan seharusnya nggak menjadi beban. Namun, persepsikanlah ia sebagai kenikmatan.

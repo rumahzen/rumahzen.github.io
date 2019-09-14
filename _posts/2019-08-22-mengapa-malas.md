@@ -1,3 +1,8 @@
+---
+layout: post
+category: psikologi
+---
+
 Mengapa malas? Mengapa kita terkadang menjadi tidak produktif? Mengapa kadang kita bingung mau melakukan apa?
 
 Kuncinya cuma satu: **niat**.

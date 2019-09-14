@@ -1,5 +1,6 @@
 ---
 layout: post
+category: pemrograman
 ---
 
 Berbagai macam bahasa pemrograman terus bermunculan. Walaupun memang kadang bahasa tersebut bukanlah bahasa utama seperti Java, C, Pascal, dan lain sebagainya. Kadang pula bukan bahasa pemrograman seperti CSS dan HTML. Kadang juga bukan bahasa yang langsung dipakai melainkan akan dikompile terlebih dahulu seperti Markdown dan Coffeescript.

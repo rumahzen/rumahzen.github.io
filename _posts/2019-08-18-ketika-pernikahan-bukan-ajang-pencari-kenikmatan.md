@@ -1,5 +1,6 @@
 ---
 layout: post
+category: psikologi
 ---
 
 Apa makna pernikahan bagimu?

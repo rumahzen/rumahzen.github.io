@@ -1,3 +1,8 @@
+---
+layout: post
+category: literasi
+---
+
 Penulis itu spesial. Penulis memiliki pandangan sendiri atas dunia. Penulis adalah pembaca. Dan membaca berarti bukan hanya membaca buku tapi juga fenomena sosial.
 
 Penulis berarti memiliki kepekaan karena dia adalah sosok yang sudah membaca lebih banyak daripada orang kebanyakan. Entah sudah berapa kisah yang dibaca. Entah berapa intisari kehidupan yang dibaca. Entah mutiara filsafat apa yang telah merasuk pada benaknya.

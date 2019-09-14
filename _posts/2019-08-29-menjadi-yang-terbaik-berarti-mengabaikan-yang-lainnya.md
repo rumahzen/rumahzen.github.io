@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 Mau jadi apa kamu di masa depan?
 
 Pilot? Dokter? Kiyai? Perawat? Psikolog? Pelayan masyarakat? Tokoh politik? Pebisnis? Atau parahnya, kamu nggak memiliki pandangan akan jadi apa kamu di masa depanmu?

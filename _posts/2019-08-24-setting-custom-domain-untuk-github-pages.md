@@ -1,5 +1,6 @@
 ---
 layout: post
+category: pemrograman
 ---
 
 Contohnya kita akan setting `blog.github.io` menjadi `blog.com`.

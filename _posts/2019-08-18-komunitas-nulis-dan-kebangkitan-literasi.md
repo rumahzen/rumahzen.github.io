@@ -1,5 +1,6 @@
 ---
 layout: post
+category: literasi
 ---
 
 Ada salah satu pepatah India yang mengatakan:

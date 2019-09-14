@@ -1,3 +1,8 @@
+---
+layout: post
+category: literasi
+---
+
 Menjadi seorang bloger tidak hanya ketika seseorang memiliki sebuah blog dan dia mengisinya. Bukan cuma itu. Menjadi seorang bloger adalah ketika kamu menyatu dengan blog yang kamu miliki. Artinya, blog adalah bagian dari dirimu dan dirimu adalah bagian dari blog.
 
 > Jadikanlah bola bagian dari dirimu.

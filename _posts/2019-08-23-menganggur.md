@@ -1,5 +1,7 @@
 ---
+layout: post
 title: Menganggur?
+category: psikologi
 ---
 
 _Saya hanya pengangguran Pak._

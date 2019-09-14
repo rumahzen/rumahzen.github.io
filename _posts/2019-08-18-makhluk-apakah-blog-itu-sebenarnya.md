@@ -1,5 +1,6 @@
 ---
 layout: post
+category: literasi
 ---
 
 Apa itu blog? Mengapa menggunakan blog? Bagaimana cara menggunakannya?

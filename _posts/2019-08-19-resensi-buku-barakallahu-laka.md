@@ -1,5 +1,7 @@
 ---
+layout: post
 title: Review Buku Barakallahu Laka
+category: literasi
 ---
 
 Sebuah karya yang sangat bagus berjudul Barakallahu Laka, Bahagianya Merayakan Cinta yang ditulis oleh ustadz kita, Ustadz Salim A. Fillah. Buku ini cocok menjadi bekal bagi seorang calon pengantin yang akan mengarungi misteri rumah tangga (aku contohnya. Hehehe. Soalnya memang mengkhatamkan buku ini tugas dari ustadz yang membimbingku bertemu Sang Bidadari. Hehehe).

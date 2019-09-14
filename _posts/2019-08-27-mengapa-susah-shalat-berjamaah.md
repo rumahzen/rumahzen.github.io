@@ -1,3 +1,8 @@
+---
+layout: post
+category: psikologi
+---
+
 Apa sih yang membuat susah shalat berjamaah di masjid? Bukankah sarana sudah ada? Ada motor. Kalau nggak ada motor, bisa minta bonceng teman. Apalagi sekarang masjid udah over-over; udah pada dekat. Terus, alasan apa lagi yang membuat kita susah ke masjid?
 
 Pakaian? Memang sih pakaian harus yang terbaik. Sebagaimana firman-Nya:

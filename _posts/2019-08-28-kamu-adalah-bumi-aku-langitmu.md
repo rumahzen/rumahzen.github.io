@@ -1,5 +1,7 @@
 ---
+layout: post
 title: Kamu adalah Bumi, Aku Langitmu
+category: sastra
 ---
 
 Laki-laki seperti langit; menurunkan kehidupan, melindungi bumi.

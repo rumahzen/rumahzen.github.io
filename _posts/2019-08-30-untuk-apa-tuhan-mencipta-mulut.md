@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 Untuk apa Tuhan mencipta mulut jika kita dilarang menggunakannya?
 
 Buat apa?

@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 Setiap manusia memiliki semesta namun berbeda nama pada masing-masing teori. Kalau Jung menyebutnya sebagai arketipe. Freud mengatakannya sebagai kepribadian. Aristotheles menyebutnya sebagai tempramen.
 
 Namun sama saja. Intinya adalah setiap orang itu unik. Tinggal nantinya dilihat apakah masing-masing semesta ini saling menelan ataukah saling bersinergi.

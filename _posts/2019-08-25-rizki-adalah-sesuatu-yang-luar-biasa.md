@@ -1,3 +1,8 @@
+---
+layout: post
+category: psikologi
+---
+
 Apakah selama ini kita berpikir bahwa hanya dengan tamak dan pelit, kita bisa jadi kaya? Apakah kita berpikir bahwa hanya dengan kerja keras, kita bisa kaya? Apakah kita berpikir bahwa usaha keras kita ini membuat kita harus mengorbankan ketaatan pada-Nya?
 
 Lalu, siapakah sesungguhnya yang memberikan rizki? Allah apa kerja keras kita?
