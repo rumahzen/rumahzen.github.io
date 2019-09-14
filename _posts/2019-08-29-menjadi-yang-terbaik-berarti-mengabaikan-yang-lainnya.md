@@ -1,5 +1,6 @@
 ---
 layout: post
+category: psikologi
 ---
 
 Mau jadi apa kamu di masa depan?

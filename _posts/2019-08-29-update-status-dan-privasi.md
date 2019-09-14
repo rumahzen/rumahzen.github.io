@@ -1,5 +1,6 @@
 ---
 layout: post
+category: psikologi
 ---
 
 > Apa nasehat orang tua kita zaman dulu? Harus banyak bicara atau banyak membaca?

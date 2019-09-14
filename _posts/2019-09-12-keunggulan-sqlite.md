@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Keunggulan SQLite
+category: pemrograman
 ---
 
 Ada berbagai macam DBMS seperti yang biasa kita dengar yaitu MySQL, lalu ada juga Cassandra milik Facebook, ada juga yang sekarang katanya banyak dipakai yaitu MongoDB karena berbasis NoSQL.

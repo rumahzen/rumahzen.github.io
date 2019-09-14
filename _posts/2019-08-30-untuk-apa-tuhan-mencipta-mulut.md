@@ -1,5 +1,6 @@
 ---
 layout: post
+category: psikologi
 ---
 
 Untuk apa Tuhan mencipta mulut jika kita dilarang menggunakannya?

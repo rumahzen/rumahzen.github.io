@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Disintegrasi: Haram dan Berbahaya (Buletin Kaffah 6/9/2019)"
+category: politik
 ---
 
 Disintegrasi Indonesia bukan lagi sebuah wacana dan isapan jempol belaka. Ini sebuah kenyataan yang harus disikapi dan diantisipasi. Aceh dengan Gerakan Aceh Merdeka (GAM)-nya pernah melancarkan gerakan bersenjata selama bertahun-tahun untuk tujuan tersebut. Gerakan Republik Maluku Selatan (RMS) boleh jadi terus bergerak untuk mewujudkan tujuannya. Bahkan Timor Timur, melalui referendum, berhasil lepas dari Indonesia sejak tahun 1999. Kini, Papua kembali bergolak. Sebagian warganya menginginkan kemerdekaan. Belakangan mereka melancarkan aksi unjuk rasa di berbagai kesempatan menuntut referendum demi memisahkan diri dari Indonesia.

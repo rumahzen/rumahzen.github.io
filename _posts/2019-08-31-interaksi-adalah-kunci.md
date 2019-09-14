@@ -1,5 +1,6 @@
 ---
 layout: post
+category: psikologi
 ---
 
 Apa sikap kita di hadapan orang banyak?

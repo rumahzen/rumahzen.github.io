@@ -1,5 +1,6 @@
 ---
 layout: post
+category: psikologi
 ---
 
 Keterampilan santuy saat ini adalah keterampilan yang sangat penting. Mengapa? Soalnya ada berbagai macam tantangan yang perlu kita hadapi dan harus kita selesaikan. Misalnya aja tantangan menghadapi berbagai kerjaan di kantor, tantangan di rumah, anak yang rewel, duit yang pas-pasan, _debt collector_ yang terus saja menghantui, perasaan kok susah banget shalat di masjid, dan berbagai macam tantangan lainnya yang mau nggak mau ya harus dihadapi karena memang nggak semua tantangan bisa kita hindari.

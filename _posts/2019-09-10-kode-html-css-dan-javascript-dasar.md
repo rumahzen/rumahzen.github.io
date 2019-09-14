@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kode HTML, CSS, dan Javascript Dasar
+category: pemrograman
 ---
 
 # HTML

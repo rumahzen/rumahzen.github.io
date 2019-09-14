@@ -1,5 +1,6 @@
 ---
 layout: post
+category: literasi
 ---
 
 Ngodop adalah rumah kita. Ya, dia adalah rumah. Rumah di mana segala macam manusia berkumpul untuk satu kegiatan bersama: blogging.
