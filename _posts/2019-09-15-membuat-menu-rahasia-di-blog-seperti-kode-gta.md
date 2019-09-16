@@ -1,6 +1,7 @@
 ---
 title: Membuat Menu Rahasia di Blog Seperti Kode GTA
 category: pemrograman
+layout: post
 ---
 
 Mengapa kode GTA? Ya, aku bingung sih mau buat judul apa.
