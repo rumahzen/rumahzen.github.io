@@ -1,4 +1,4 @@
 ---
 category: klien
-url: https://panglimadelivery.com
+link: https://panglimadelivery.com
 ---
