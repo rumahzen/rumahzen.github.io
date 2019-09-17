@@ -1,3 +1,7 @@
+---
+category: pemrograman
+---
+
 ```html
 {% raw %}
 {% assign random = site.time | date: "%s" %}
