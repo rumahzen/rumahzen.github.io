@@ -56,11 +56,13 @@ public class MainActivity extends Activity {
 
             }
 
+				/*
             @TargetApi(Build.VERSION_CODES.N)
             @Override
             public boolean shouldOverrideUrlLoading(WebView view, WebResourceRequest request) {
                 return false;
             }
+				*/
         });
 
         if (savedInstanceState != null) {
